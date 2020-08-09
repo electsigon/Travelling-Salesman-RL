@@ -20,4 +20,5 @@ python mcts_tsp.py
 ```
 
 Python Version: 3.8.3
+
 PyTorch version: 1.6.0
